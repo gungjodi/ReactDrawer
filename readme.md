@@ -1,1 +1,1 @@
-**Example of creating Sidebar with navigation using React Native**
+**Example of creating Sidebar with navigation using React Native with react-navigation and react-native-base**
